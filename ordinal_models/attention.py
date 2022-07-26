@@ -1,6 +1,5 @@
 import tensorflow as tf
 
-
 def attention(inputs, attention_size, time_major=False, return_alphas=False):
     """
     Attention mechanism layer which reduces RNN/Bi-RNN outputs with Attention vector.
