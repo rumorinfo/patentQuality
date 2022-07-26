@@ -1,5 +1,5 @@
 
-Currently the repository contains the sample data and part of the model files. The full dataset and code will be available soon. 
+Currently the repository contains the sample data and part of the model files. The full dataset and code will be available after the paper is accepted. 
 
 sample_data:some  sample data 
 
@@ -12,3 +12,4 @@ model-2:MH-CNN
 model-3:H-BLISTM
 
 model-4:MH-BLISTM
+
