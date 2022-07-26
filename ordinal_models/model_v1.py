@@ -1,4 +1,5 @@
 import tensorflow as tf
+
 #from .attention import attention
 class Model(object):
     def __init__(self, config,vectors):
