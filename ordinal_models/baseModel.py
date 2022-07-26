@@ -3,6 +3,7 @@ import tensorflow as tf
 import time,os
 from qualityRating.utilities.utils import data_iterator
 
+
 class BaseModel(object):
     """Generic class for general methods that are not specific to NER"""
 
