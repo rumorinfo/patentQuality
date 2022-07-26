@@ -10,7 +10,6 @@ import shutil
 import os
 import time
 
-
 def make_prediction(probabilities):
     probabilities = np.array(probabilities)
     range_prob = np.ones((probabilities.shape[0], probabilities.shape[-1] + 1))
